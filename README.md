@@ -1,11 +1,14 @@
 README.md
-    # student portfolio
+   ## Hi 👋 I am your name 
+I am working as  Data Analyst Intern at Gamaka AI Solutions
+ I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
+Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow. I am actively looking for opportunities in Data Science.
 
-    Hey ! welcome to my portfolio . It's coming up tomorrow when i learn
-     HTML and CSS with pratap live on youtube
-     For now I know 
+- 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
+- 🤝 Open for job in  analytics,data science and python
+- 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
-     1. Javascript
-     2  nodeJ5
-     3  Rep.it
-     4  CHALK
+### My Recent projects 
+[Name of your project](github link)
+
+### Skills
